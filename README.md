@@ -1,5 +1,4 @@
 # WeatherInsight
-
 This Python script allows you to get the current weather information for a specific city. It uses the OpenWeatherMap API to fetch weather data, and then it provides two key pieces of information: the weather description (like clear, rainy, etc.) and the temperature in Celsius.
 
 ## How It Works
